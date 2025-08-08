@@ -6,9 +6,13 @@ subtitle: Welcome to Jongwoo Jeong's Web
 
 {% raw %}
 <style>
-.page-title, .page-subtitle {
+/* 제목, 부제목 숨기기 */
+.page-title,
+.page-subtitle {
   display: none !important;
 }
+
+/* 소개 섹션 스타일 */
 .intro-container {
   display: flex;
   flex-wrap: wrap;
@@ -54,6 +58,8 @@ subtitle: Welcome to Jongwoo Jeong's Web
 ---
 
 ## Contact
+
+
 
 ```
 Affiliation: Department of Political Science, Georgia State University
