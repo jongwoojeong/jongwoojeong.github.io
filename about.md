@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Research
+title: 
 ---
 
 {% raw %}
