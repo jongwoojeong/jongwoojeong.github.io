@@ -6,7 +6,6 @@ subtitle:
 
 {% raw %}
 <style>
-/* 제목, 부제목 숨기기 */
 .page-title,
 .page-subtitle {
   display: none !important;
@@ -18,11 +17,11 @@ subtitle:
   flex-wrap: wrap;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 60px;
+  gap: 40px;  /* 이미지와 텍스트 사이 간격 */
   margin-bottom: 2rem;
 }
 .intro-img-wrapper {
-  flex: 0 0 300px;
+  flex: 0 0 250px;    /* 이미지 영역 너비 */
 }
 .intro-img-wrapper img {
   width: 100%;
@@ -31,13 +30,14 @@ subtitle:
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 .intro-text {
-  flex: 1;
-  min-width: 250px;
+  flex: 2;            /* 텍스트 영역이 이미지보다 2배 넓음 */
+  min-width: 350px;
+  font-size: 1.1rem;
+  line-height: 1.8;
 }
 
-/* ✅ 너비 1.5배 확장 */
 .page-content, .container {
-  max-width: 1700px !important;
+  max-width: 1920px !important;   /* 전체 너비 확장 */
   margin: auto;
   padding-left: 30px;
   padding-right: 30px;
@@ -66,6 +66,7 @@ subtitle:
 ---
 
 ## Contact
+
 
 
 
