@@ -37,7 +37,7 @@ subtitle:
 
 /* ✅ 너비 1.5배 확장 */
 .page-content, .container {
-  max-width: 1440px !important;
+  max-width: 1700px !important;
   margin: auto;
   padding-left: 30px;
   padding-right: 30px;
