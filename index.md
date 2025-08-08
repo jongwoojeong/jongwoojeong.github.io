@@ -1,74 +1,46 @@
 ---
 layout: page
-title:
-subtitle:
+title: 
+subtitle: 
 ---
 
 {% raw %}
 <style>
-/* Jekyll 기본 타이틀 숨김 */
 .page-title,
-.page-subtitle { display: none !important; }
-
-/* 페이지 전체 폭 — 필요시 1800~2000px로 조절 */
-.page-content, .container {
-  max-width: 1800px !important;
-  margin: auto;
-  padding-left: 30px;
-  padding-right: 30px;
+.page-subtitle {
+  display: none !important;
 }
 
-/* ====== 소개 섹션 (항상 좌:이미지 / 우:텍스트) ====== */
+/* 소개 섹션 스타일 */
 .intro-container {
-  /* 데스크톱에서는 2열 고정 */
-  display: grid;
-  grid-template-columns: clamp(260px, 20vw, 360px) 1fr; /* 왼쪽 고정폭, 오른쪽 유동 */
-  column-gap: 48px;
-  align-items: start;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;  /* 이미지와 텍스트 사이 간격 */
   margin-bottom: 2rem;
 }
-
-.intro-img-wrapper { 
-  /* 그리드 1열: 이미지 칼럼 */
-  width: 100%;
+.intro-img-wrapper {
+  flex: 0 0 250px;    /* 이미지 영역 너비 */
 }
 .intro-img-wrapper img {
   width: 100%;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-  display: block;
 }
-
 .intro-text {
-  /* 그리드 2열: 텍스트 칼럼 */
+  flex: 2;            /* 텍스트 영역이 이미지보다 2배 넓음 */
+  min-width: 350px;
   font-size: 1.1rem;
   line-height: 1.8;
-  /* 너무 좁아지지 않게 최소 폭 확보 */
-  min-width: 700px;                 /* ★ 텍스트 가로폭 확보 포인트 */
-  /* 단어 줄바꿈 이슈 대비 */
-  word-break: keep-all;
-  overflow-wrap: anywhere;
 }
 
-/* 브라우저가 아주 넓을 때 텍스트 칼럼이 너무 길어지면 읽기 어려우니 최대 폭 제한을 주고 싶다면 아래 주석 해제
-.intro-text { max-width: 95ch; }
-*/
-
-/* ====== 반응형: 태블릿/모바일에서만 세로 스택 ====== */
-@media (max-width: 1100px) {
-  .intro-container {
-    grid-template-columns: clamp(220px, 28vw, 300px) 1fr;
-    column-gap: 36px;
-  }
-  .intro-text { min-width: 0; }  /* 좁은 화면에서는 제한 해제 */
-}
-
-@media (max-width: 780px) {
-  .intro-container {
-    display: block;   /* 모바일에서만 위/아래 스택 */
-  }
-  .intro-img-wrapper { margin-bottom: 20px; max-width: 420px; }
+.page-content, .container {
+  max-width: 1920px !important;   /* 전체 너비 확장 */
+  margin: auto;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 </style>
 {% endraw %}
@@ -94,7 +66,6 @@ subtitle:
 ---
 
 ## Contact
-
 
 
 
