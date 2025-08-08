@@ -24,7 +24,7 @@ subtitle: Welcome to Jongwoo Jeong's Web
 </style>
 
 <div class="intro-container">
-  <img src="/assets/img/itu-seokho-m4.jpg" alt="Jongwoo Jeong">
+  <img src="/assets/img/headshot_jongwoo.jpeg" alt="Jongwoo Jeong">
   <div class="intro-text">
     <p>Hi everyone — it’s great to e-meet you!</p>
     <p>I'm Jongwoo Jeong, an Assistant Professor of Political Science at <a href="https://politicalscience.gsu.edu/">Georgia State University</a>.</p>
