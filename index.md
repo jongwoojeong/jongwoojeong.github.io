@@ -18,7 +18,7 @@ subtitle:
   flex-wrap: wrap;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 30px;
+  gap: 60px;
   margin-bottom: 2rem;
 }
 .intro-img-wrapper {
