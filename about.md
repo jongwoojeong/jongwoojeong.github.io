@@ -3,16 +3,19 @@ layout: page
 title: Current Research
 ---
 
-
 {% raw %}
 <style>
 /* 제목, 부제목 숨기기 */
 .page-title,
-.page-subtitle {
+.page-subtitle,
+h1.page-title,
+h1 {
   display: none !important;
 }
-<!-- 여기에 실제 콘텐츠 작성 -->
+</style>
+{% endraw %}
 
+<!-- 실제 콘텐츠 시작 -->
 
 ## Peer‑Reviewed Publications
 
@@ -55,7 +58,6 @@ title: Current Research
    Jennifer McCoy, Mike Evans, Alex Leasure  
    _The De Gruyter-APSA Teaching Civic Engagement Series, edited by J. Cherie Strachan, Alison McCartney, Euiyoung Kim,  Christopher Isike, and John Ishiyama.  De Gruyter-American Political Science Association. (under contract)
 
-
 ---
 
 ### Other Publications
@@ -91,4 +93,4 @@ title: Current Research
 6. **Political Geography, Electoral System, and Political Ambition**  
    *Sarah Anzia, Matt Gabel, and Jonathan Rodden*
 
-
+<!-- 실제 콘텐츠 끝 -->
