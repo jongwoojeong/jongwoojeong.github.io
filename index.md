@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jongwoo Jeong
-subtitle: Welcome to Jongwoo Jeong's Web
+title: 
+subtitle: 
 ---
 
 {% raw %}
