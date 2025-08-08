@@ -2,6 +2,7 @@
 layout: page
 title: Jongwoo Jeong
 subtitle: Welcome to Jongwoo Jeong's Web
+hide_title: true
 ---
 
 <style>
@@ -30,7 +31,7 @@ subtitle: Welcome to Jongwoo Jeong's Web
 
 <div class="intro-container">
   <div class="intro-img-wrapper">
-    <img src="/assets/img/itu-seokho-m4.jpg" alt="Jongwoo Jeong">
+    <img src="/assets/img/headshot_jongwoo.jpeg" alt="Jongwoo Jeong">
   </div>
   <div class="intro-text">
     <p>Hi everyone — it’s great to e-meet you!</p>
