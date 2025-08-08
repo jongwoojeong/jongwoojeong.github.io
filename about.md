@@ -3,15 +3,14 @@ layout: page
 title: research
 ---
 
+
 {% raw %}
 <style>
-/* 제목 숨기기 */
-.page-title {
+/* 제목, 부제목 숨기기 */
+.page-title,
+.page-subtitle {
   display: none !important;
 }
-</style>
-{% endraw %}
-
 <!-- 여기에 실제 콘텐츠 작성 -->
 
 
