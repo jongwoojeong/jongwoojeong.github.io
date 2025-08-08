@@ -7,23 +7,19 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <br/>
 
-## About me
 
-**Seokho Son** is a **_senior researcher_** and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+Hi everyone — it’s great to e-meet you!
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+I'm Jongwoo Jeong, an Assistant Professor of Political Science at [Georgia State University](https://https://politicalscience.gsu.edu/). I earned my Ph.D. from Texas A&M University in 2022 and completed a two-year postdoctoral fellowship at Washington University in St. Louis. My research explores how polarization and immigration shape American political life, particularly how they influence pathways to political incorporation and representation. While rooted in political behavior, my work also brings in perspectives from institutional analysis, public administration, and methodological innovation—including text-as-data, experimental design, and causal inference—to better understand how democracy in the U.S. is both evolving and enduring across these interconnected areas.
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+My work has been published in journals such as *American Journal of Political Science*, *Journal of Politics*, *British Journal of Political Science*, and *Political Behavior*, as well as in outlets focused on race and ethnicity like *Politics, Groups, and Identities*. I've been fortunate to receive support from the APSA Centennial Center and the APSA Advancing Research Grant for Early Career Scholars.
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+I’m always excited to connect, collaborate, and learn from others—so feel free to reach out!
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: Department of Political Science, Georgia State University
+Mailing Address: Georgia State University, Department of Political Science, 38 Peachtree Center Ave SE, Room 1023, Atlanta, GA 30303
+Email: jjeong15[at]gsu.edu
 ```
