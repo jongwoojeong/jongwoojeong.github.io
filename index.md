@@ -21,7 +21,7 @@ subtitle:
   margin-bottom: 2rem;
 }
 .intro-img-wrapper {
-  flex: 0 0 250px;    /* 이미지 영역 너비 */
+  flex: 0 0 300px;    /* 이미지 영역 너비 */
 }
 .intro-img-wrapper img {
   width: 100%;
@@ -31,13 +31,13 @@ subtitle:
 }
 .intro-text {
   flex: 2;            /* 텍스트 영역이 이미지보다 2배 넓음 */
-  min-width: 450px;
+  min-width: 550px;
   font-size: 1.1rem;
   line-height: 1.8;
 }
 
 .page-content, .container {
-  max-width: 1750px !important;   /* 전체 너비 확장 */
+  max-width: 2300px !important;   /* 전체 너비 확장 */
   margin: auto;
   padding-left: 30px;
   padding-right: 30px;
