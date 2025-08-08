@@ -69,9 +69,11 @@
 
 4. **Spatial Modeling in Neighborhood and Crime Study**  
    *Young‑An Kim*
-
-5. **Political Geography, Electoral System, and Political Ambition**  
+   
+5. **Reimagining Black Ideology: Understanding Ideological Subgroup Variations in the Black Community**  
+   *Kevin Sparrow*
+   
+6. **Political Geography, Electoral System, and Political Ambition**  
    *Sarah Anzia, Matt Gabel, and Jonathan Rodden*
 
-6. **Reimagining Black Ideology: Understanding Ideological Subgroup Variations in the Black Community**  
-   *Kevin Sparrow*
+
