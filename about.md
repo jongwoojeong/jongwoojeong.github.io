@@ -54,8 +54,7 @@ title: research
 
 2. **Promoting Democratic Dispositions through Civil Discourse Assignments in a Large Introductory American Politics Course**  
    Jennifer McCoy, Mike Evans, Alex Leasure  
-   _In Teaching Civic Engagement Series_, edited by J. Cherie Strachan, Alison McCartney, Euiyoung Kim,  Christopher Isike, and John Ishiyama.  
-   The De Gruyter-APSA Teaching Civic Engagement Series. (under contract)
+   _The De Gruyter-APSA Teaching Civic Engagement Series, edited by J. Cherie Strachan, Alison McCartney, Euiyoung Kim,  Christopher Isike, and John Ishiyama.  De Gruyter-American Political Science Association. (under contract)
 
 
 ---
