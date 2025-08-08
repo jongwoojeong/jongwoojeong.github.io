@@ -1,3 +1,22 @@
+---
+layout: page
+title: 
+---
+
+{% raw %}
+<style>
+/* 제목, 부제목 숨기기 */
+.page-title,
+.page-subtitle,
+h1.page-title,
+h1 {
+  display: none !important;
+}
+</style>
+{% endraw %}
+
+<!-- 실제 콘텐츠 시작 -->
+
 ## Peer-Reviewed Publications
 
 ### Journal Articles
