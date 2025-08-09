@@ -93,3 +93,6 @@ h1 {
    
 6. **Political Geography, Electoral System, and Political Ambition**  
    *With Sarah Anzia, Matt Gabel, and Jonathan Rodden*
+
+7. **Joining the Party: Polarization and Partisan Incorporation**
+   
