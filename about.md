@@ -101,7 +101,7 @@ h1 {
 
 ---
 
-## Book 
+## Book Project
 
   1. **The American Voice: Polarization and the Public in Their Own Words**
      *With Max Allamong and Paul Kellstedt*
