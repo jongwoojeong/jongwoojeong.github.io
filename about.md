@@ -61,7 +61,7 @@ h1 {
 
 ---
 
-### Other Publications
+## Other Publications
 
 1. _“Monitoring Pretrial Reform in Harris County: Second Report of the Court-Appointed Monitor.”_  
    Independent Monitor for the _Odonnell v. Harris County_ Decree. Durham, NC: Duke University School of Law, 2021.  
@@ -72,7 +72,7 @@ h1 {
 
 ---
 
-### Selected Working Papers
+## Selected Working Papers
 
 1. **Culture or Security? How Gender Trumps Geopolitics in Shaping Support for Trade with Strategic Partners**  
    *With Boram Lee*  
@@ -101,7 +101,7 @@ h1 {
 
 ---
 
-### Book 
+## Book 
 
   1. **The American Voice: Polarization and the Public in Their Own Words**
      *With Max Allamong and Paul Kellstedt*
