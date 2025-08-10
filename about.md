@@ -57,7 +57,7 @@ h1 {
 
 2. **Promoting Democratic Dispositions through Civil Discourse Assignments in a Large Introductory American Politics Course**  
    *With Jennifer McCoy, Mike Evans, and Alex Leasure*  
-   _The De Gruyter-APSA Teaching Civic Engagement Series, edited by J. Cherie Strachan, Alison McCartney, Euiyoung Kim, Christopher Isike, and John Ishiyama. De Gruyter-American Political Science Association. (under contract)_
+   _The De Gruyter-APSA Teaching Civic Engagement Series, edited by J. Cherie Strachan, Alison McCartney, Euiyoung Kim, Christopher Isike, and John Ishiyama. The De Gruyter-APSA Teaching Civic Engagement Series. (under contract)
 
 ---
 
@@ -95,4 +95,13 @@ h1 {
    *With Sarah Anzia, Matt Gabel, and Jonathan Rodden*
 
 7. **Joining the Party: Polarization and Partisan Incorporation**
-   
+
+8. **Minority Owned-Business and Political Ambition** 
+  _(Supported by 2025 Advanding Research Grant for Early Career Scholars, American Political Science Association)_   
+
+---
+
+### Book 
+
+  1. **The American Voice: Polarization and the Public in Their Own Words**
+     *With Max Allamong and Paul Kellstedt*
