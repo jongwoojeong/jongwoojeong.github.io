@@ -56,8 +56,8 @@ h1 {
    _In Oxford Intersections: Racism by Context_, edited by Meena Dhanda, Nadia E. Brown, and Kouslaa T. Kessler-Mata. Oxford University Press. (under contract)
 
 2. **Promoting Democratic Dispositions through Civil Discourse Assignments in a Large Introductory American Politics Course**  
-   *With Jennifer McCoy, Mike Evans, and Alex Leasure*  
-   _The De Gruyter-APSA Teaching Civic Engagement Series, edited by J. Cherie Strachan, Alison McCartney, Euiyoung Kim, Christopher Isike, and John Ishiyama. The De Gruyter. (under contract)
+   *With Jennifer McCoy, Mike Evans, and Alex Leasure*
+   _The De Gruyter-APSA Teaching Civic Engagement Series_, edited by J. Cherie Strachan, Alison McCartney, Euiyoung Kim, Christopher Isike, and John Ishiyama. The De Gruyter. (under contract)
 
 ---
 
@@ -96,7 +96,7 @@ h1 {
 
 7. **Joining the Party: Polarization and Partisan Incorporation**
 
-8. **Minority Owned-Business and Political Ambition** 
+8. **Beyond Democgraphics: Minority Owned-Business and Minority Political Participation and Ambition** 
   _(Supported by 2025 Advanding Research Grant for Early Career Scholars, American Political Science Association)_   
 
 ---
